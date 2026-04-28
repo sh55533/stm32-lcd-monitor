@@ -69,16 +69,6 @@
 
 ---
 
-## 📷 동작 사진
-
-### LCD 출력
-![LCD 동작](images/lcd_display.jpg)
-
-### 전체 회로 연결
-![회로 연결](images/circuit.jpg)
-
-### UART 디버그 출력 (PuTTY)
-![PuTTY](images/putty.png)
 
 ---
 
